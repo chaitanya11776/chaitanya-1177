@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:FF0080,100:FF8C00&height=220&section=header&text=Tejas%20Rajput&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:FF0080,100:FF8C00&height=220&section=header&text=Chaitanya%20Patil&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://linkedin.com/in/chaitanya-patil-9343b52b6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:chaitanyapatil1177@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
